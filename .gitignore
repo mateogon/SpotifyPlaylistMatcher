@@ -1,0 +1,42 @@
+# Environment variables
+.env
+
+# Cache files
+.cache/
+
+# JSON files (for storing results)
+*.json
+
+# Python Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+wheels/
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# macOS specific files
+.DS_Store
