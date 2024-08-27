@@ -1,4 +1,3 @@
-````markdown
 # SpotifyPlaylistMatcher
 
 SpotifyPlaylistMatcher is a Python-based tool that helps you find and match Spotify playlists based on your liked songs.
@@ -11,6 +10,7 @@ SpotifyPlaylistMatcher is a Python-based tool that helps you find and match Spot
 git clone https://github.com/mateogon/SpotifyPlaylistMatcher.git
 cd SpotifyPlaylistMatcher
 ```
+
 ````
 
 2.  Create and activate a virtual environment:
@@ -54,4 +54,3 @@ python main.py
    git commit -m "Add setup and usage instructions to README.md"
    git push origin main
    ```
-````
